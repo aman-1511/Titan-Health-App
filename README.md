@@ -116,7 +116,7 @@ Below are screenshots of some of the pages within our site as a preview! *Note t
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/4f07bb9a-a4fa-4d4f-9795-2707b248b437" />
 
 #### Home Page
-
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/c7af0575-43e2-4725-94c7-28ac8ac08938" />
 
 #### Recommended Menu Items Page
 <img width="1432" alt="Image" src="https://github.com/user-attachments/assets/f8c773b8-b266-487f-b76d-dfd7104a6ebb" />
