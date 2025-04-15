@@ -104,22 +104,22 @@ yarn add --dev <package-name>
 Below are screenshots of some of the pages within our site as a preview! *Note that many of the pages in the site our not shown (such as the fitness and health tracker related pages)*, and these are just a showcase of some of the UI.
 
 #### Meal Tracker Page
-<img width="1438" alt="Meal Tracker Page" src="">
+<img width="1438" alt="Image" src="https://github.com/user-attachments/assets/2d80d349-9e48-472b-acb0-7077eb9ee799" />
 
 #### Dining Court Menu Page
-<img width="1437" alt="Dining Court Menu Page" src="">
+<img width="1437" alt="Image" src="https://github.com/user-attachments/assets/e79c018a-8364-4205-8f59-3f2185732c24" />
 
 #### Dining Court Menu Item Page
-<img width="1440" alt="Dining Court Menu Item Page" src="">
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/fda6daed-14ba-44ad-8d67-467ad1b6a376" />
 
 #### Dietary Preferences Page
-<img width="1440" alt="Dietary Preferences Page" src="">
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/4f07bb9a-a4fa-4d4f-9795-2707b248b437" />
 
 #### Home Page
-<img width="1440" alt="Home Page" src="">
+<img width="1432" alt="Image" src="https://github.com/user-attachments/assets/f8c773b8-b266-487f-b76d-dfd7104a6ebb" />
 
 #### Recommended Menu Items Page
-<img width="1432" alt="Recommended Menu Items Page" src="">
+<img width="1437" alt="Image" src="https://github.com/user-attachments/assets/635daea2-42aa-45d8-af3e-60ff103ac2ee" />
 
 #### Other Health Tracker Page - Weight 
 <img width="1437" alt="Other Health Tracker Page - Weight " src="">
