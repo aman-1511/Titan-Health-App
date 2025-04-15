@@ -1,0 +1,131 @@
+.mealTracker {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to bottom,
+            rgba(0, 0, 0, 0, ) 0%,
+            rgba(0, 0, 0, 1) 100%),
+        url("../../components/titan_background.jpeg");
+    background-size: cover;
+    position: relative;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+
+    .MuiChartsLegend-series tspan {
+        fill: white;
+    }
+
+    .stack {
+        background-color: rgba(0, 0, 0, .75);
+        padding: 1%;
+        border-radius: 5%;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+
+    .listItem {
+        font-weight: normal;
+        white-space: pre;
+        margin-top: 2.5px;
+        flex-grow: 1;
+        text-align: right;
+        margin-right: 0px;
+    }
+
+    .goalItem {
+        width: 80px;
+        text-align: left;
+        transform: translate(20%, 0%);
+        font-size: 0.8rem;
+        font-weight: normal;
+    }
+
+    .goalSpace {
+        margin-right: 15px;
+    }
+
+    .goalValue {
+        font-weight: bold;
+    }
+
+    .toolTip {
+        transform: translate(60%, 0%);
+    }
+
+    .text {
+        color: white;
+    }
+
+    .inputContainer {
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 5px;
+    }
+
+    .mealTypeContainer {
+        margin-top: 10px;
+        margin-left: 10%;
+    }
+
+    .button {
+        margin-top: 20px;
+    }
+
+    .sectionTitle {
+        margin-top: 5px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .calorieLabel {
+        color: gray;
+        font-size: 0.8rem;
+        font-weight: normal;
+    }
+
+    .servingLabel {
+        color: gray;
+        font-size: 0.8rem;
+        font-weight: normal;
+    }
+
+    .calorieLabelValue {
+        font-weight: normal;
+    }
+
+    .goalLabelBottom {
+        color: gray;
+        font-size: 0.8rem;
+        font-weight: normal;
+    }
+
+    .goalLabelTop {
+        font-weight: normal;
+    }
+
+    h4 {
+        text-align: center;
+        margin-bottom: 5px;
+        font-size: 18px;
+    }
+
+    .checkbox {
+    }
+
+    .errorMessage {
+        color: red;
+    }
+
+    .MuiSelect-select {
+        color: white;
+    }
+
+    .inputBox {
+        width: 220px;
+        margin-bottom: 5px;
+        margin-left: 10px;
+    }
+}
